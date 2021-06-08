@@ -29,6 +29,9 @@ Or on mac
     $ brew install ffmpeg
 <br>
 #
-[Windows XP Images](repo/blob/main/images/XP/README.md),
-[Windows 10 Images](repo/blob/main/images/10/README.md),
-[Linux Lite Images](repo/blob/main/images/LinuxLite/README.md),
+
+[Windows XP Images](repo/blob/main/images/XP/README.md).
+
+[Windows 10 Images](repo/blob/main/images/10/README.md).
+
+[Linux Lite Images](repo/blob/main/images/LinuxLite/README.md).
