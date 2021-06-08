@@ -1,42 +1,50 @@
-# Windows 10
+# Linux Lite
 
-#
-<br>
 # On Startup
-![init](init.jpg)
+
+![init](init.png)
 
 #
 # No Project Loaded
-![no_project_loaded](no_project_loaded.jpg)
+
+![no_project_loaded](no_project_loaded.png)
 
 #
 # Capture Window
-![display](display.jpg)
+
+![display](display.png)
 
 #
-#  New Project
-![new](new.jpg)
+# New Project
+
+![new](new.png)
 
 #
 # Estimated
-![Est](Estimated.jpg)
+
+![Est](Estimated.png)
 
 #
 # Interval
-![Interval](Interval.jpg)
+
+![Interval](Interval.png)
 
 #
 # Open Project
-![open](open.jpg)
+
+![open](open.png)
 
 #
 # Player (no file)
-![playernovid](playernovid.jpg)
+
+![playernovid](playernovid.png)
 
 #
 # Player
-![player](player.jpg)
+
+![player](player.png)
 
 #
 # Export Project
-![export](export.jpg)
+
+![export](export.png)
