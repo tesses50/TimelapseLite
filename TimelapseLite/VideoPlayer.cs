@@ -17,8 +17,12 @@ namespace mjpeg_handler
         }
         public void Hitme()
         {
-            trackBar1.Maximum = System.IO.Directory.GetFiles(Form1.Instance.Project.dirpath, "*.jpg").Length;
+            
+            if (System.IO.Directory.Exists(Form1.Instance.Project.dirpath))
+            {
                 
+                trackBar1.Maximum = System.IO.Directory.GetFiles(Form1.Instance.Project.dirpath, "*.jpg").Length;
+            }
         }
 
         private void timer1_Tick(object sender, EventArgs e)

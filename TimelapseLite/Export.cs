@@ -46,7 +46,7 @@ namespace mjpeg_handler
                 }
                 
             }
-            catch (FileNotFoundException ex)
+            catch (Exception ex)
             {
                 string ffmpegtxt = System.IO.Path.Combine(NewProject_Screens.ProjectLocation.InternalStore, "ffmpeg.txt");
                 
