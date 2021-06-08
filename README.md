@@ -10,7 +10,7 @@ To compile with mono
     $ xbuild /p:Configuration=Release TimelapseLite.sln
 To run with mono
 
-    $ cd TimelapseLite/TimelapseLite/bin/Release
+    $ cd TimelapseLite/bin/Release
     $ mono TimelapseLite.exe
 #
 To export videos you will need ffmpeg,
