@@ -1,6 +1,5 @@
 # Windows XP
 
-#
 # On Startup
 
 ![init](init.png)
