@@ -27,7 +27,6 @@ Or on Debian, Ubuntu or Raspbian
 Or on mac
 
     $ brew install ffmpeg
-<br>
 #
 
 [Windows XP Images](repo/blob/main/images/XP/README.md).
