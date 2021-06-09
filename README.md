@@ -1,5 +1,5 @@
 ## Timelapse Lite
-#
+
 Record IP camera in steps
 
 #
@@ -29,8 +29,8 @@ Or on mac
     $ brew install ffmpeg
 #
 
-[Windows XP Images](https://github.com/tesses50/TimelapseLite/blob/main/images/XP/README.md).
+[Windows XP Images](https://github.com/tesses50/TimelapseLite/blob/main/images/XP/README.md)
 
-[Windows 10 Images](https://github.com/tesses50/TimelapseLite/blob/main/images/10/README.md).
+[Windows 10 Images](https://github.com/tesses50/TimelapseLite/blob/main/images/10/README.md)
 
-[Linux Lite Images](https://github.com/tesses50/TimelapseLite/blob/main/images/LinuxLite/README.md).
+[Linux Lite Images](https://github.com/tesses50/TimelapseLite/blob/main/images/LinuxLite/README.md)
